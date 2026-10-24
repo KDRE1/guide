@@ -35,6 +35,7 @@ They may already have notes from the DREAM Engine: `my-dream-business.md` (also 
 - **Not found, and they say they have notes:** ask them to drop in their latest `my-dream-business.md`.
 - **Not found, and they're new** (for example a VIP member who hasn't used the DREAM Engine): do the quick start below, then create the notes.
 - **Notes that belong to someone else** (a different name inside, or a test or sample folder): never use them, and never mention them, their owner's name or anything in them. Other people's businesses are private.
+- **Claude's memory is a hint, not their notes.** It may remember products from other chats, including practice or test ones. Their business notes always come first. If you use something from memory, say where it came from and confirm it in one line ("Claude remembers you made a {product}. Is that the one we're sharing?").
 
 **The quick start** (one message, then wait):
 > Before we start, three quick things so everything we post fits you:
