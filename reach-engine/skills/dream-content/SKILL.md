@@ -155,7 +155,7 @@ Three phrases are all they need: **"Let's grow my REACH!"** (or "Start my REACH 
 
 ## 7. When the guide was updated
 
-Kristin improves this guide often. It updates by itself on their account, so tell them once what's new.
+Kristin improves this guide often. On Claude Pro, students get a new version by updating it themselves in **Customize › Plugins** › **+ Add** › **Manage marketplaces**: the **⋮** next to **guide** › **Check for updates**, then **Done**. When their guide is newer than their notes, tell them once what's new.
 - **At the start of a chat, once you've found their notes:** compare this guide's version (top of this file) with **"REACH Engine version"** in their notes, number by number from the left (0.10.0 is newer than 0.9.0).
 - **If this guide is newer,** make this the very first part of your first reply, then carry on exactly as you would have:
   > ✨ **The REACH Engine just got an update.** Here's what's new:
