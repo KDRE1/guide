@@ -12,7 +12,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 
 ## Anytime
 
-- **"Start my REACH Engine"**: starts your social media guide
+- **"Let's grow my REACH!"**: starts your social media guide
 - **"Keep going"**: picks up exactly where you left off
 - **"Where am I?"**: shows your REACH roadmap
 - **"/update"**: shows what's new in the REACH Engine

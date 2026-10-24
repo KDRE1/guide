@@ -1,6 +1,6 @@
 ---
 name: dream-content
-description: ALWAYS use this skill, before replying, when the user says "Start my REACH Engine", "REACH Engine", "start my content", "let's start my content", "Share the DREAM" (its old name), or asks about growing on social media for their DREAM business or digital product: starting or setting up an Instagram, Facebook Page or YouTube channel, their bio or handle, content pillars, what to post, a content plan or 30-day content calendar, Reels or YouTube Shorts scripts, Stories, captions, hooks, text on screen, hashtags or keywords, posting schedules, growing followers, turning followers into buyers, or checking their Instagram profile or other accounts (with Apify). In that context, also use it for "keep going", "where am I", "what's next", "I'm stuck", going live to sell, and "/update". It is Kristin's REACH Engine, the social media add-on for the DREAM Engine. It covers Instagram, Facebook and YouTube, not TikTok. Never use it for video editing, CapCut or coding work.
+description: ALWAYS use this skill, before replying, when the user says "Let's grow my REACH", "Start my REACH Engine", "REACH Engine", "start my content", "let's start my content", "Share the DREAM" (its old name), or asks about growing on social media for their DREAM business or digital product: starting or setting up an Instagram, Facebook Page or YouTube channel, their bio or handle, content pillars, what to post, a content plan or 30-day content calendar, Reels or YouTube Shorts scripts, Stories, captions, hooks, text on screen, hashtags or keywords, posting schedules, growing followers, turning followers into buyers, or checking their Instagram profile or other accounts (with Apify). In that context, also use it for "keep going", "where am I", "what's next", "I'm stuck", going live to sell, and "/update". It is Kristin's REACH Engine, the social media add-on for the DREAM Engine. It covers Instagram, Facebook and YouTube, not TikTok. Never use it for video editing, CapCut or coding work.
 ---
 
 # The REACH Engine (Kristin's social media guide)
@@ -123,7 +123,7 @@ Approved work is protected: change only what they ask, and what depends on it.
 
 ## 5. Moving forward
 
-Three phrases are all they need: **"Start my REACH Engine"** (or "Let's start my content") to start, **"Keep going"** to pick up where they are, and **"Where am I?"** for the roadmap. **"I'm stuck"** shows things they can ask, and **/update** shows what's new.
+Three phrases are all they need: **"Let's grow my REACH!"** (or "Start my REACH Engine") to start, **"Keep going"** to pick up where they are, and **"Where am I?"** for the roadmap. **"I'm stuck"** shows things they can ask, and **/update** shows what's new.
 - Inside a stage, end every message with one clear thing to do: a yes, a choice, or "done".
 - At the end of a stage: a one-line celebration, the roadmap, their notes saved, then:
   > **Your next step: {stage}.** {one line on what it does for them}
