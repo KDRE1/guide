@@ -7,7 +7,7 @@ description: Use when the user types "/update", or asks what's new in the REACH 
 
 *© 2026 DRDL PROPERTIES LLC (Kristin's Classroom). Licensed for the purchaser's personal use. See `LICENSE`.*
 
-**This guide is version 0.2.2.** What's new in each version: `whats-new.md`, in this folder.
+**This guide is version 0.2.3.** What's new in each version: `whats-new.md`, in this folder.
 
 Students are beginners. Keep it short and warm, in plain words.
 
@@ -15,7 +15,7 @@ Students are beginners. Keep it short and warm, in plain words.
 1. **Customize** → **Plugins**
 2. Click **+ Add** (top right), then **Manage marketplaces**.
 3. Click the **⋮** next to **guide**, then **Check for updates**. Then click **Done**.
-4. Open a **new chat** in their DREAM project and type **Keep going**.
+4. Open a **new chat** in their My DREAM Business project and type **Keep going with my REACH**.
 
 ## When they type /update
 
@@ -30,13 +30,13 @@ If their business notes are in this chat and their "REACH Engine version" is old
 ## If they think they're missing an update
 
 Usually it just needs a new chat. A chat that was already open may keep the version it started with.
-1. Open a **new chat** in their DREAM project and type **Keep going**.
+1. Open a **new chat** in their My DREAM Business project and type **Keep going with my REACH**.
 2. **Still the old version?** Have them update it:
    - **Customize** → **Plugins**
    - click **+ Add** (top right), then **Manage marketplaces**
    - click the **⋮** next to **guide** (not dream-guide, which is the DREAM Engine), then **Check for updates**, then **Done**
    - still the old version number under **Plugins** → **Yours**? Click **The REACH Engine**, then **Update** if it shows
-   - then open a new chat in their DREAM project
+   - then open a new chat in their My DREAM Business project and type **Keep going with my REACH**
 3. **They can't find it, or it shows an error:** ask what they see (a screenshot helps), and help from there. Claude has moved these buttons before.
 
 **They uploaded a zip instead of using the marketplace.** That copy never updates. Help them switch once:

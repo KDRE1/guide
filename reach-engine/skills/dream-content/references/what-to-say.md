@@ -14,6 +14,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 
 - **"Let's grow my REACH!"**: starts your social media guide
 - **"Keep going"**: picks up exactly where you left off
+- **"Keep going with my REACH"**: the same, in a brand new chat (so your REACH guide answers, even if you have the DREAM Engine too)
 - **"Where am I?"**: shows your REACH roadmap
 - **"/update"**: shows what's new in the REACH Engine
 - **"I'm stuck"**: shows this list

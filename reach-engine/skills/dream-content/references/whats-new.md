@@ -3,6 +3,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.3
+
+- **Starting a new chat?** Type **Keep going with my REACH**, so your REACH guide answers (handy if you have the DREAM Engine too). In the same chat, **Keep going** is all you need.
+- **On free Claude with the DREAM Engine too?** Your guide shows you one line to change in your project, so each guide answers in its own chat.
+
 ## 0.2.2
 
 - **Remake a viral Reel:** send your guide the link to a Reel that's taking off in your niche, and it checks it's really a winner, finds why it works, and remakes it for your topic and your buyer (with Apify connected, it can even read what's said in it). Type **Remake this Reel for my niche** and paste the link.
