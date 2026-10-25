@@ -1,10 +1,11 @@
 # Apify: looking at Instagram for you
 
 Instagram pages don't open for you on your own: Instagram asks for a login. **Apify** is a separate service with its own connector for Claude. Once the student connects it, you can look at public Instagram profiles and posts yourself, instead of asking for a pile of screenshots.
-Kristin's guide uses it for three things:
+Kristin's guide uses it for four things:
 1. **Checking their own profile** the way a visitor sees it (stage 1 for an existing account, stage 2 once their profile is live, and once a month in stage 8).
 2. **Studying 3 or 4 accounts** in their niche (stage 4).
 3. **Finding their best posts** for the 30-day rule (stage 7).
+4. **Remaking a Reel that's taking off** in their niche, any time they send you the link ("Remake a viral Reel", below).
 
 Facts here were checked on Apify's own pages in October 2026. Prices and menus change: check before you state them (`rules.md`, rule 5).
 
@@ -54,13 +55,14 @@ Save it in their notes: **Apify connected:** yes, with the date (or "no, screens
 
 - **Use Apify's official tools** (made by Apify itself, marked official):
   - `apify/instagram-profile-scraper`: one profile, with its latest posts
-  - `apify/instagram-scraper`: posts or Reels from a profile link, with captions and numbers
+  - `apify/instagram-scraper`: posts or Reels from a profile link, or one post or Reel from its own link, with captions and numbers
+  - `apify/instagram-reel-scraper`: one Reel from its link, and it can add a transcript of what's said in it (`includeTranscript`). The transcript costs a little extra per minute of audio, so check the price first and say it in one line.
 - **Before the first run in a chat,** look up the tool's details (its input fields and price), because they change.
 - **Keep it small:** about 30 posts per account, a few accounts at a time.
 - **The first time in each chat, say what you'll look at and the rough cost in one line,** then run it. ("I'll look at your profile and your last 30 posts. That's about 10 cents of your free Apify credit.") Their "Needs approval" click comes after that.
 - If a run fails or comes back empty, say so plainly. Never fill in numbers from memory (`rules.md`, rule 1). Try once more, or ask for a screenshot.
 
-**Only public accounts, and only ones they choose with you:** their own, and the 3 or 4 they study. Look at profiles and posts, nothing about the people around them:
+**Only public accounts, and only ones they choose with you:** their own, the 3 or 4 they study, and Reels they send you to remake. Look at profiles and posts, nothing about the people around them:
 - never pull follower or following lists, or details about the people who comment
 - if any contact details come back (an email or phone number on a business profile), ignore them, and never save them
 - never use it to find people to message or follow
@@ -117,6 +119,23 @@ They make the changes in the app themselves. Save it in their notes under **Prof
 6. **Turn the patterns into their formats** (`stage-pillars-study.md`, stage 4). Keep the shape, never the words.
 
 Save "Accounts I study" with what works for each, and the 2 or 3 formats they'll try first.
+
+## Remake a viral Reel (any time)
+
+Kristin's findings: one of the best ways to get more eyes on their account is to find a Reel that's taking off and remake it as their own, in their niche. The same shape, with their topic, their buyer and their words. It gives them a much better shot than a blank page (never a promise of views).
+
+**When:** whenever they send a Reel link ("Remake this Reel for my niche"), when a study (stage 4) turns up a Reel well above its account's usual, and as one post in their weekly content pack (`stage-rhythm.md`). Encourage them to save any Reel that stops *them* scrolling in their Study collection and send you the link.
+
+1. **Check it's really taking off.** Pull the Reel from its link, plus that account's last 12 or so Reels (`apify/instagram-scraper`), and compare its views with the account's usual (the middle view count). About 3 times its usual or more is a real winner. Under about 1.5 times is a normal day for that account, however big the number looks: say so kindly, and suggest one that beat its own usual (accounts closer to their size are best).
+2. **Get what it says and shows.** The numbers don't show the text on screen. For the spoken words, `apify/instagram-reel-scraper` can add a transcript (a little extra, say the cost first). For the rest, ask them to watch it once and tell you the first 3 seconds (the text on screen, what happens, what's said), or send 2 or 3 screenshots (the first frame and the end).
+3. **Name why it works,** in one short block:
+   > **Why it works:** {the hook and its first line} · {the format, like text on screen over a time-lapse} · {length} · {how the value is delivered} · {the call to action} · {the audio: a trending sound, or the creator's own voice}
+4. **Remake it for them:** a topic from their pillars or idea bank, their buyer's words, their look, the same length and rhythm. Write it shot by shot (`stage-create.md`): what they say | the text on screen | what to show, plus the caption its job needs, then run the sounds-human check.
+   - **Keep the shape, never the words:** never the creator's script, caption, footage, face or voiceover. A trending sound from Instagram's own audio library is fine to use (tap the sound's name, then save it or use it).
+   - **If the topic doesn't fit their niche,** find the version that does: "a 3-step dinner hack" can become "a 3-step Canva hack" for a Canva seller.
+5. **Save it:** the shape in "Proven hooks and phrases", and the remake in their idea bank or this week's content pack. After they post it, look at it in the next check-in against their own usual.
+
+**Without Apify:** they paste the link plus 2 or 3 screenshots (the Reel's first frame, its view count, and the account's Reels tab). You can't open Instagram yourself, so work from what they send.
 
 ## The 30-day look (stage 7)
 

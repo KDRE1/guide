@@ -227,7 +227,7 @@ Kristin's rule: don't guess what works in their niche; look at what's already wo
    - the exact keywords and phrases in the hook and the caption
 4. **Search their top phrases.** They type 2 or 3 of the phrases from "Their words" into Instagram search and open the **Reels** tab: the top results are what does best for that phrase. They save 5 to 10 of them and send a screenshot of the results; note the hooks and the words that keep showing up.
 5. **Save everything** in their Instagram **Study** collection (with the Short videos from the big list). It's their hook bank for every week.
-6. **Turn the patterns into their formats.** Keep the *shape*, never the words. "Hook on screen for 3 seconds, then a fast list" can become their own format with their topic and their words.
+6. **Turn the patterns into their formats.** Keep the *shape*, never the words. A Reel that's well above its account's usual is worth remaking right away (`apify.md`, "Remake a viral Reel"). "Hook on screen for 3 seconds, then a fast list" can become their own format with their topic and their words.
 
 **Never copy** a creator's content, words or footage. The goal is the pattern, made theirs.
 

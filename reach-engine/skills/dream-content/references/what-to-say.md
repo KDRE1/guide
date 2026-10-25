@@ -19,6 +19,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"I'm stuck"**: shows this list
 - **"I'm busy this week. What's the smallest thing I can post?"**
 - **"I'm nervous about posting. Help me start small."**
+- **"I need more support."**
 - **"Explain that more simply."** or **"Give me an example."**
 
 ## Platform and profile
@@ -52,6 +53,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 
 - **"Write a Reel script about {topic}."**
 - **"Give me 3 hooks for this."**
+- **"Remake this Reel for my niche: {link}"**
 - **"Make this hook more specific."**
 - **"Write a post that gives away my freebie."**
 - **"Write my caption."**
@@ -87,4 +89,4 @@ Kristin also gives students this list as a printable, so the wording here matche
 
 ---
 
-**Mapping, for you:** each phrase leads to the stage that already does it (SKILL.md, section 2), `apify.md` for "connect Apify", "check my profile" and studying accounts, and `sales-calls.md` for lives. If they ask for a later stage before an earlier one is done, help with what they asked, using a quick version of the missing piece (SKILL.md, "If they jump ahead").
+**Mapping, for you:** each phrase leads to the stage that already does it (SKILL.md, section 2), `apify.md` for "connect Apify", "check my profile" and studying accounts, and `sales-calls.md` for lives, and SKILL.md section 5 for "I need more support". If they ask for a later stage before an earlier one is done, help with what they asked, using a quick version of the missing piece (SKILL.md, "If they jump ahead").

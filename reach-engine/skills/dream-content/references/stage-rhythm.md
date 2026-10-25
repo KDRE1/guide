@@ -47,12 +47,13 @@ Recommend the level below what they think they can do. It's easy to overestimate
 
 Every week, on plan day, make their content pack. **Follow their rotation card** (`stage-pillars-study.md`, "Your content rotation"): it says which pillar and which job each post gets this week. Pick the topic and angle from their idea bank and real-life list.
 
-### What to post each day (Kristin's two ways)
+### What to post each day (Kristin's three ways)
 1. **Newer accounts (fewer than about 60 posts): a topic + a proven hook.** Take a topic from their big list or idea bank, pick a hook shape from their **Proven hooks and phrases** (their Study collection), and put their topic and keyword into it (`stage-create.md`, "Borrow a proven shape"). New accounts are still testing, so try different topics, formats and phrases, and let the check-ins show what lands.
 2. **Established accounts (about 60 posts or more, with some traction): remake a winner.** Look at last month's posts and find the one with the most comments (more comments, more leads, more sales). Then remake it one of two ways:
    - **Same value, new hook:** deliver the same tip or free gift, packaged with a fresh hook.
    - **Same hook and shape, new topic:** keep what made people stop, and use it for a different topic or gift.
    Kristin's findings: something that worked once usually works again, so this becomes the main way to decide once they have the posts to learn from.
+3. **Any account: remake a Reel that's taking off.** About one post a week can be a remake: they send the link of a Reel in their niche (or one with the same buyer) that's well above its account's usual, and you remake it for them (`apify.md`, "Remake a viral Reel"). Their own ideas stay the main part of the week.
 
 For each post:
 - the day, pillar and job (from the rotation card)

@@ -34,6 +34,7 @@ Kristin's test: *would their buyer stop for this, and what does it promise them?
 | "Grocery shopping hacks" | "The one grocery list that cut my store trips to once a week" *(only if it's true)* |
 
 ### 3. Borrow a proven shape, never the words
+The biggest version of this: **remake a Reel that's taking off** in their niche (`apify.md`, "Remake a viral Reel"). They send the link, and you remake it for their topic and buyer.
 From their **Proven hooks and phrases** (stage 4): keep the shape of a hook that's working, and fill it with their topic and their keyword. A shape like *"This {thing} is helping me {result}"* becomes *"This 10-minute Sunday list is getting dinner on our table by 5:30"*, as long as it's true for them. Results, money and numbers in a hook are only ever their own, real ones (`rules.md`, rule 7).
 
 ---
@@ -132,7 +133,7 @@ A swipeable post of several slides (portrait, 1080 × 1350, works well). Great f
 - **A recap slide before the last one:** the whole thing as a short list. It's the slide people screenshot and send.
 - **Last slide:** the call to action ("Save this for later", "Follow for more", or the product or freebie once they're selling).
 - **Number the slides** (3/7), so people can see the end is close, and put their **@handle small on every slide:** screenshots travel without them.
-You design them in their Canva. Kristin's full carousel lesson is coming in VIP; until then, keep them simple.
+You design them in their Canva. Keep them simple.
 Kristin's Canva tip: if they have a flat image they'd like to change, **Edit → Magic Layers** can turn it into a design where every piece is editable (if their Canva has it).
 
 ---

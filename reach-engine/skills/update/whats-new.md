@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.2
+
+- **Remake a viral Reel:** send your guide the link to a Reel that's taking off in your niche, and it checks it's really a winner, finds why it works, and remakes it for your topic and your buyer (with Apify connected, it can even read what's said in it). Type **Remake this Reel for my niche** and paste the link.
+- **Need a hand?** Type **I need more support** anytime, and your guide helps with what's going on right then.
+
 ## 0.2.1
 
 - **Stay in one chat:** keep going in the same chat from step to step. Your guide gives you your notes only when you want a new chat, so there's less to swap.
