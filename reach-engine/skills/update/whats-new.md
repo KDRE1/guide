@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.1
+
+- **Stay in one chat:** keep going in the same chat from step to step. Your guide gives you your notes only when you want a new chat, so there's less to swap.
+- **Your roadmap always matches your notes,** and shows only the parts you'll actually do.
+
 ## 0.2.0
 
 - **More of Kristin's findings in every step:** checking a post against that account's usual views when you study, Reel timing and where text sits on screen, carousels people screenshot and send, which Story sticker to use, comments that get noticed, turning one long video into a week of posts, and replying to a question with a Reel.
