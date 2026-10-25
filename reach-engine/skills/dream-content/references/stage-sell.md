@@ -42,7 +42,7 @@ They can start this before week 7: lead posts use it from the start. While comme
 - **Tool:** ManyChat works with Instagram and Facebook, and has a free plan with limits. Check the current plan at manychat.com/pricing before you recommend it, and say plainly what the free plan includes.
 - **Write the whole flow** (Kristin's 4 steps):
   1. The post or Reel caption that tells people which word to comment, and why.
-  2. The first automatic message: warm, like a real person.
+  2. The first automatic message: warm, like a real person. The gift comes in the first or second message, with nothing to do first (no "follow me to unlock", no questions to answer). That feels like a trick, and people remember it. One easy question can come after the gift.
   3. The message with the link, introducing the product in one natural sentence.
   4. A friendly follow-up 24 hours later for anyone who took the freebie but didn't buy. Once only, never pushy.
 - Keep every message short, warm and human. No fake scarcity.
@@ -54,11 +54,22 @@ When someone replies to a Story or asks a question, keep it simple and personal:
 - If the product fits, share the link in one line, with why it fits *them*.
 - If it doesn't fit, say so kindly, and point to something free that helps. A sale that doesn't help them isn't a win.
 Write 2 or 3 reply templates for them to personalize. Never copy-paste the same message to everyone.
+**They move first.** Message people who commented, answered a Story or wrote to them. Never send the same message to lots of people who didn't, and never use a tool that does: it gets accounts restricted.
+
+**Comments under their own posts,** sorted so the important ones get answered first:
+- **The comment word:** send what they asked for (section 3).
+- **Someone describing the problem they solve:** answer it fully, in public, then one line offering more help. The public answer is what makes the next person write to them.
+- **A question lots of people have:** **reply with a Reel.** On Instagram they can answer a comment with a new Reel; the comment shows on the video and the person who asked gets notified. The hook is already written: it's the question.
+- **Kind words** ("love this", 🔥): a like and a few words back.
+- **Criticism:** agree with the part that's true first, then hold their ground, once. **Rude or spam:** no reply. Hide abusive comments; that's what the comment controls are for.
+
+**A collab pitch** (a post made with another account in the same space, which shows on both accounts' grids: one of the strongest ways to grow without paying anyone). Before pitching, comment on their posts for a couple of weeks. Then 4 short lines: something specific they've noticed about the other person's account, the idea, what the other person gets, and what they'd need from them. If there's no reply: one follow-up after about 4 days with something new (never "just bumping this"), and a last one around day 10 saying they'll leave it there. Then stop.
 
 ## 5. Stories that sell
 
 Once they're selling, **a call to action several times a week** in their Stories: the product, the freebie, or "reply {word}". People chose to tap the Story, so it doesn't feel pushy.
 Mix it into a normal Story day: life → making the product → a tip → the call to action.
+On a day that's all about the product: about 3 slides of context (the problem, a moment from their day, the story), 1 slide with the offer, and 1 slide of real proof.
 
 ---
 

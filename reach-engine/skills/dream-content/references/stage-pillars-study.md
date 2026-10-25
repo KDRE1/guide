@@ -213,9 +213,12 @@ Kristin's rule: don't guess what works in their niche; look at what's already wo
 **Start with their own best posts** (only if they already have a business page with about 60 posts or more, stage 1 answer c): which posts from the last month got the most comments, and what was the topic, the hook and the free gift? Those are proven with *their* audience. On Instagram with Apify connected, pull them yourself (`apify.md`, "The 30-day look"); otherwise ask for a screenshot of their grid with the comment counts.
 
 1. **Find 3 or 4 big accounts** in their niche, on their platform: about 50,000 followers or more, accounts their buyer already follows and they look up to. Search their keywords and their words (from the big list).
+   - **Add 1 or 2 accounts closer to their size** (up to about 10 times their followers). A format that works at 2 million followers often works *because* of the 2 million.
+   - **Add 1 or 2 accounts in a different niche with the same buyer** (a mom-life account, when they sell dinner planners). New formats often show up there first. Borrow the format only.
 2. **Pick each account's 2 or 3 best posts from the last month, by comments first.** Kristin: *comments are people raising their hand.* More comments means more leads, and more leads means more sales. Then views. (Shares and saves matter too, but only the account owner can see those.)
    - **Instagram, with Apify connected:** pull the posts yourself (`apify.md`, "Studying accounts"). If Apify isn't connected yet, offer it once (`apify.md`, "Connect it").
    - **Otherwise:** ask for one screenshot of each account's grid or Reels tab.
+   - **Then check each post against that account's usual.** Big numbers can fool you: 400,000 views is a normal day for an account with 2 million followers, but for an account with 4,000 followers it means that post found something. The account's usual is the middle view count of its last 12 Reels. A post at about 3 times its usual or more is a real winner worth studying; one under about 1.5 times is just a normal day, however big the number looks. With Apify, work it out yourself from the posts you pulled; otherwise estimate it from their Reels tab.
 3. **For each one, note:**
    - what it was (a Reel, a carousel, a trend; if it uses a trending sound, they can save the audio in the app)
    - the hook (on screen and spoken)

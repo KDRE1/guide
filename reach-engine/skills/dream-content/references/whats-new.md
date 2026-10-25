@@ -3,6 +3,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.0
+
+- **More of Kristin's findings in every step:** checking a post against that account's usual views when you study, Reel timing and where text sits on screen, carousels people screenshot and send, which Story sticker to use, comments that get noticed, turning one long video into a week of posts, and replying to a question with a Reel.
+- **A sounds-human check** on everything your guide writes for you, before you see it.
+
 ## 0.1.0
 
 - **Welcome to the REACH Engine!** Your guide takes you from a brand new account (or the page you already have) to a full content system in five steps: **R**eady your profile, **E**xplore your buyer's words and what works, **A**ttract with posts that stop the scroll, **C**onnect every week, and **H**elp them buy.

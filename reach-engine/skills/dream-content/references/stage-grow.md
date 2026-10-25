@@ -10,18 +10,21 @@ Once their 30-day system is approved, "Keep going" means: this week's content pa
 **Ask, in one message** (skip what their notes answer):
 > Quick check-in!
 > 1. **What did you post** this week?
-> 2. **Send me a screenshot of your numbers** (your professional dashboard on Instagram or Facebook, or YouTube Studio), or tell me roughly what you saw.
+> 2. **Send me a screenshot of your numbers** (your professional dashboard on Instagram or Facebook, or YouTube Studio), or tell me roughly what you saw. For a Reel, the screenshot of how long people watched (the skip rate or the watch graph in its insights) helps most.
 
 **What the numbers mean, step by step:**
 
 | What you see | What it usually means | What to try |
 |---|---|---|
+| **Most people swipe away in the first 3 seconds** (a high skip rate) | The hook, and only the hook | Fix the first 2 seconds before changing anything else: a stronger hook (`hooks.md`), movement in the first frame, the hook text up from frame 1 |
 | **Low views or reach** | The first second isn't stopping the scroll | A stronger hook (`hooks.md`), text on screen sooner, a format from the accounts they study |
 | **Views, but few saves or shares** | It's not useful or relatable enough | More specific value, their buyer's exact words, a list or steps people want to keep |
 | **Saves, but few new followers** | People like the post but not the profile yet | A clearer bio and pinned posts (the 3-second test, or a profile check with `apify.md`), a "follow for…" call to action |
 | **Followers, but few clicks** | The next step isn't clear | The link, the bio's call to action, Story link stickers |
 | **Clicks, but no sales** | The listing or offer | The DREAM Engine's check-in (the offer side): description, images, price, trust |
 | **Stories: people drop off before the end** | Too long, too much text, or loops left open | Fewer slides, fewer words, more variety, close the loop |
+
+**Two quick rules before you suggest anything:** views but no new followers is a profile problem, not a post problem; no views is a hook problem. And **shares are the strongest signal** a post can earn, because someone put their name on it: a post with fewer views and more shares beat the bigger one.
 
 **Tuning the mix** (after the first 6 weeks). Start at about 60/30/10 (`stage-pillars-study.md`), then let the numbers steer it:
 - **Not enough new followers:** more growth posts.
@@ -31,6 +34,7 @@ Once leads come in steadily, the mix can lean further toward nurture and sales (
 
 **Then:**
 - **Change one thing at a time,** so they can see what made the difference. Save it in their check-ins with the date and the numbers.
+- **Check the posting day and time last.** It's almost never the reason. The first 2 seconds matter far more.
 - **Celebrate real wins:** a post that got shared, the first message, the first sale.
 - **Don't judge too early.** Give a new format about 3 weeks before deciding. Remind them of their number.
 - **Set next week:** the content pack, with more of what worked.
@@ -41,6 +45,7 @@ Once leads come in steadily, the mix can lean further toward nurture and sales (
 
 Kristin's mentor: **post for 30 days without changing the format or topic. Then look at the 3 best posts.** Those topics are their niche; those formats are their brand. Make more of them.
 - **"Best" depends on the job:** most comments for lead and sales posts (comments are leads), most shares and saves for growth posts.
+- **Judge against their own usual,** not against big accounts. Their usual is the middle view count of their last 10 to 12 posts; a post at about 3 times their usual is a real winner.
 - **Make more of them in two ways** (`stage-rhythm.md`, "What to post each day"): the same value with a new hook, or the same hook and shape with a new topic.
 After a proof of concept, don't chase shiny new ideas. Do more of what works.
 Every 30 days: their top 3 posts, what they'll repeat, the one thing they'll change, and whether to move up a rhythm level.

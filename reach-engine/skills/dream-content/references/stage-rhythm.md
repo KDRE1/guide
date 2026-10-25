@@ -36,7 +36,10 @@ Recommend the level below what they think they can do. It's easy to overestimate
 | **Review day** | The weekly check-in (`stage-grow.md`): what got seen, saved, shared and clicked. | 10 minutes with you |
 
 **Replying matters most when they're small.** Kristin: reply to every comment and message. It's their biggest advantage over big creators, and the people who find them early become their most loyal buyers.
-**Commenting on bigger creators' posts** (something real, not "great post!") puts them in front of those creators' followers.
+**Commenting on bigger creators' posts** (something real, not "great post!") puts them in front of those creators' followers. How to do it well:
+- **Their daily list of about 10 accounts:** 5 bigger accounts their buyer follows (comment early, in the first hour, before there are hundreds of comments), 3 accounts about their size (they tend to comment back), and 2 people who could buy from them (comment for a few weeks before ever messaging, and never pitch). Rotate the list, so it isn't the same 3 accounts every day.
+- **A comment that gets noticed does one of these:** adds a real number or their own experience ("Same here: I tried this for 2 weeks and…"), adds the case the post missed, asks the real question the post skipped, or builds on one line from it.
+- **1 to 3 sentences, one idea.** Never "Great post", "Love this", "So true", emoji only, or a summary of the video they just watched. Never their link or offer.
 
 ---
 
@@ -93,6 +96,7 @@ Good ideas work everywhere. Only the format changes:
 - **Reel → YouTube Short:** the same vertical video, with a keyword title.
 - **A popular post → a carousel, a Story series, an email** to their list, or a pin (if they use Pinterest).
 - **The best-performing short videos** become ideas for longer videos later (stage 7).
+- **One long piece → a week of posts.** A live, a podcast, a YouTube video, a long email or a call recap usually holds 4 to 6 posts. Read the whole thing and pull out what stands on its own: claims people could argue with, numbers, short stories with a moment that cost or won them something, how-it-works explanations, mistakes, and lines that are already quotable. Then pick a format for each: stories, claims and mistakes become Reels (they need their voice and face), steps become carousels (people re-read them), and a quotable line becomes a Story slide. Every post has to make sense on its own (never "as I said in my live"). If it's their own video, use the real clip. If the piece gives fewer than 4, it's thin: say so.
 
 ---
 
