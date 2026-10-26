@@ -4,6 +4,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.4
+
+- **Updating without losing your place:** before you update, type **I want to start a new chat. Can I have my notes?** in your REACH chat, and add the file to your project. If a new chat ever seems a step behind, your guide shows you how to bring your newest notes over, so nothing gets redone.
+
 ## 0.2.3
 
 - **Starting a new chat?** Type **Keep going with my REACH**, so your REACH guide answers (handy if you have the DREAM Engine too). In the same chat, **Keep going** is all you need.

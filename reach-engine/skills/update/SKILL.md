@@ -7,11 +7,13 @@ description: Use when the user types "/update", or asks what's new in the REACH 
 
 *© 2026 DRDL PROPERTIES LLC (Kristin's Classroom). Licensed for the purchaser's personal use. See `LICENSE`.*
 
-**This guide is version 0.2.3.** What's new in each version: `whats-new.md`, in this folder.
+**This guide is version 0.2.4.** What's new in each version: `whats-new.md`, in this folder.
 
 Students are beginners. Keep it short and warm, in plain words.
 
-**Updating takes a few clicks.** They installed it from Kristin's REACH Engine marketplace, which Claude calls **guide** (the DREAM Engine's is **dream-guide**). When Kristin emails them that there's a new version, they update it themselves (there's nothing to download):
+**Updating takes a few clicks.** They installed it from Kristin's REACH Engine marketplace, which Claude calls **guide** (the DREAM Engine's is **dream-guide**). When Kristin emails them that there's a new version, they update it themselves (there's nothing to download).
+
+**First, their newest notes** (Kristin, Oct 25: a DREAM Engine student updated and her new chat picked up from the day before). An update needs a new chat, and a new chat only knows the notes saved in their project. If they've worked in this chat since those notes were saved, give them their newest `my-dream-business.md` before the update steps, the same way as before any new chat (the REACH guide's `SKILL.md`, section 1), or save it yourself if you can. Then:
 1. **Customize** → **Plugins**
 2. Click **+ Add** (top right), then **Manage marketplaces**.
 3. Click the **⋮** next to **guide**, then **Check for updates**. Then click **Done**.
@@ -22,7 +24,7 @@ Students are beginners. Keep it short and warm, in plain words.
 > ✨ **You have version {version} of the REACH Engine.** Here's what's new in it:
 > - {the lines for this version from `whats-new.md`}
 >
-> To get Kristin's newest version later: **Customize** → **Plugins** → **+ Add** → **Manage marketplaces**, then the **⋮** next to **guide** → **Check for updates** → **Done**. Type **Keep going** to pick up your content.
+> To get Kristin's newest version later: first type **I want to start a new chat. Can I have my notes?** here, and add the file I give you to your My DREAM Business project, replacing the old one. Then **Customize** → **Plugins** → **+ Add** → **Manage marketplaces**, then the **⋮** next to **guide** → **Check for updates** → **Done**. Type **Keep going** to pick up your content.
 
 If their business notes are in this chat and their "REACH Engine version" is older, set it to this version with your next notes save.
 **Have the DREAM Engine too?** It has its own /update. If two show up when they type /update, this one shows the REACH Engine's news.
@@ -30,7 +32,7 @@ If their business notes are in this chat and their "REACH Engine version" is old
 ## If they think they're missing an update
 
 Usually it just needs a new chat. A chat that was already open may keep the version it started with.
-1. Open a **new chat** in their My DREAM Business project and type **Keep going with my REACH**.
+1. First give them their newest notes (above). Then they open a **new chat** in their My DREAM Business project and type **Keep going with my REACH**.
 2. **Still the old version?** Have them update it:
    - **Customize** → **Plugins**
    - click **+ Add** (top right), then **Manage marketplaces**
@@ -43,7 +45,7 @@ Usually it just needs a new chat. A chat that was already open may keep the vers
 1. Remove the uploaded copy: open it in **Customize** → **Plugins** → its menu → **Remove**.
 2. Follow the install steps from Kristin's REACH Engine lesson.
 
-Their notes stay safe in their project throughout.
+The notes in their project stay safe throughout. Anything newer lives only in the chat, which is why they get their newest notes first.
 
 ## Keep it honest
 

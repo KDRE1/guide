@@ -21,6 +21,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"I'm busy this week. What's the smallest thing I can post?"**
 - **"I'm nervous about posting. Help me start small."**
 - **"I need more support."**
+- **"I want to start a new chat. Can I have my notes?"**: gives you your newest notes, before a new chat or an update
 - **"Explain that more simply."** or **"Give me an example."**
 
 ## Platform and profile
