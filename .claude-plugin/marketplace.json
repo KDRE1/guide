@@ -1,0 +1,15 @@
+{
+  "name": "the-reach-engine",
+  "description": "The REACH Engine: the social media add-on for your DREAM Engine.",
+  "owner": {
+    "name": "Kristin's Classroom",
+    "url": "https://www.skool.com/kristinsclassroom/about"
+  },
+  "plugins": [
+    {
+      "name": "reach-engine",
+      "source": "./reach-engine",
+      "description": "The REACH Engine: the social media add-on for your DREAM Engine."
+    }
+  ]
+}
