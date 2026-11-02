@@ -164,6 +164,8 @@ With a comment-keyword message, 4 to 6 can be one short paragraph. The full sale
 
 Write every caption in their tone, at a 4th to 5th grade reading level (`why-people-buy.md`, section 14). Read it out loud: if they wouldn't say it, change it. **No links in captions:** they can't be clicked. The link goes in the bio or the message.
 
+**Every caption comes complete, with its keywords and hashtags** (Kristin, Nov 2). Whatever you hand over (a first post, a Reel, a carousel, a content pack, a remake, a sales post), 2 or 3 of their keywords are already in the sentences and the hashtags are written out at the end, ready to copy (3 to 5 on Instagram). Never "add your hashtags here". YouTube Shorts take the keywords in the title and description instead (below).
+
 ---
 
 ## Text on screen and keywords (being found)

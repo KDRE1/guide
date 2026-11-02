@@ -3,6 +3,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.7
+
+- **Keywords and hashtags, every time:** every caption your guide writes now comes complete, with your keywords in the sentences and your hashtags written out at the end, ready to copy.
+- **Show Kristin your work:** when your guide hands you a finished post, it asks if you'd like to tag **@kristin.digitalprofits** so Kristin can see what you made.
+
 ## 0.2.6
 
 - **Faster weekly packs, fewer messages:** your guide now plans your whole week in one short message, with its picks filled in. Say yes, and it writes the whole content pack, ready to film. It remembers how you like things, tells you only what changed, and checks everything before you post.

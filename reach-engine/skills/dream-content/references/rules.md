@@ -90,7 +90,7 @@ Kristin's rule: every answer is grounded in something real, and you never agree 
 
 19. **Every page matches, or it isn't ready** (Kristin, Oct 25, a hard rule. A student's product came back with a different font every other page and 12 shades of grey. That must never happen again).
    - **Two fonts and three text colors per product,** from their style sheet: one heading font, one body font, and one exact dark color for all body text. Never a third font. Never a second grey.
-   - **Build every page from copies of the approved master pages** (`step-execute.md`, Round 7). Never add a new text box for the product's words (it comes in Canva's default font, in black). Never keep a page Canva designed on its own without checking it.
+   - **Build every page from copies of the approved master pages** (`step-execute.md`, Round 6). Never add a new text box for the product's words (it comes in Canva's default font, in black). Never keep a page Canva designed on its own without checking it.
    - **Run the fonts and colors check, by the numbers, before you say "ready", show a preview of the product, or give them its link.** On every page for the first build, at the checkpoint, and for any product they bring you. For a change, on every page the change touched (rule 23). Fix everything it finds first. A page in the wrong font is rebuilt from a master copy, never left for them to fix.
    - **"You can change it in Canva" is never the fix.** You make it match.
    - **If you can't run the check** (the design won't open, a page won't read), say so plainly, and don't call it ready (rule 4).
