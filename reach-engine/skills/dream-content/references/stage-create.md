@@ -128,12 +128,33 @@ Kristin's Stories findings, made simple for a beginner. People choose to tap a S
 
 ## Carousels and slideshows
 
-A swipeable post of several slides (portrait, 1080 × 1350, works well). Great for lists, steps and before and after. Keep it to 5 to 7 slides to start.
-- **Slide 1:** the hook (a big, readable promise from `hooks.md`).
-- **Slides 2 to 6:** one point per slide, few words, in their look. **Slide 2 has to work on its own too:** Instagram can show a carousel again starting from slide 2 to people who didn't swipe the first time, so it can't be just a lead-in.
-- **A recap slide before the last one:** the whole thing as a short list. It's the slide people screenshot and send.
-- **Last slide:** the call to action ("Save this for later", "Follow for more", or the product or freebie once they're selling).
-- **Number the slides** (3/7), so people can see the end is close, and put their **@handle small on every slide:** screenshots travel without them.
+A swipeable post of several slides. **Size: 1080 × 1440 (3:4),** Canva's "Instagram Post (3:4)", for every slide. Great for lists, steps and before and after.
+
+**Kristin's carousel order (Kristin, Nov 7): every carousel goes in this order.** Each slide does one job for the reader's attention, so the order is what keeps them swiping to the end. Never skip a slide or change the order.
+
+1. **The cover: a promise and the name of their method.** The promise is what the reader wants ("Make your money last until payday", in a big, readable hook from `hooks.md`). The name sits with it as a small label ("The Payday Plan"). The promise makes them want it; a name they don't know yet makes them curious.
+2. **The map:** the whole method on one slide, every step's name in order, numbered. It shows the end is close and doable, so they keep going. It's also the slide people screenshot and send, and it works on its own when Instagram shows the carousel again from slide 2 to people who didn't swipe the first time.
+3. **The first steps:** one step per slide, the step's name big, one short line on how to do it.
+4. **The turn, about two-thirds of the way in:** one slide that looks at the idea a new way. This is where people usually stop swiping, so a fresh angle pulls them back in. Two shapes that work: "Steps 1 to 3 find the money. Steps 4 and 5 keep it there." or "Most people stop here. Here's why the last two steps matter most."
+5. **The last steps:** usually 2, the payoff.
+6. **The ask:** "Comment {WORD} and I'll send you {the thing}" plus "or tap the link in bio" when their bio link goes there. One easy word with no spaces. The thing is their freebie, a checklist or their product.
+
+A method of 4 to 6 steps makes 8 to 10 slides, which is a good length (Instagram allows up to 20). The turn goes after step 3 of 4 or 5, or after step 4 of 6.
+
+**Example** (a budget planner shop): 1 cover "Make your money last until payday" + label "The Payday Plan" · 2 the map: list every bill, find your leaks, give every dollar a job, pay yourself first, check in every Sunday · 3 to 5 the first three steps · 6 the turn "Steps 1 to 3 find your money. Steps 4 and 5 keep it there." · 7 and 8 the last two steps · 9 "Comment PAYDAY and I'll send you my free budget checklist, or tap the link in bio."
+
+**Build it with them in the same order,** one short question at a time, filling in what you already know from their notes:
+1. **The promise:** what will the reader be able to do or have? Use their buyer's words and their pillars.
+2. **The steps:** 4 to 6 steps in a real order. If the topic won't split into steps that go in order, it's too big: say so kindly and suggest a smaller angle.
+3. **The name:** offer 2 or 3 names for their method, for example letters from the steps that spell a word, "The ___ Plan", or "The 5-Minute ___". They pick or change it. Never borrow a name another creator uses.
+4. **The map and the turn:** you write these from their steps, then show them.
+5. **The ask:** the word and what they'll send. No freebie yet? Their map slide can become a one-page checklist in Canva, and that's the freebie.
+6. **The whole plan:** show it as a numbered slide list (slide, words), get their yes, then design it in their Canva, in their look.
+
+**Before you hand it over, check the order:** the promise and the name on the cover, the map on slide 2, the turn about two-thirds of the way in, and one ask at the end. Then the slide basics:
+- **Few words on each slide,** in their look, big enough to read on a phone.
+- **Number the slides** (3/9), so people can see the end is close, and put their **@handle small on every slide:** screenshots travel without them.
+- **Check the slide order in Canva** after it's built: Canva can shuffle pages when it makes a design. Put them back in order before you hand it over.
 You design them in their Canva. Keep them simple.
 Kristin's Canva tip: if they have a flat image they'd like to change, **Edit → Magic Layers** can turn it into a design where every piece is editable (if their Canva has it).
 

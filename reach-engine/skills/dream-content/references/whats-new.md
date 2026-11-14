@@ -3,6 +3,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.2.8
+
+- **Carousels in Kristin's order:** every carousel your guide makes now follows the order that keeps people swiping: a cover that promises something and names your method, a map of all your steps, the steps, a turn about two-thirds of the way in, the last steps, and one clear ask (comment a word, or tap the link in bio).
+- **Built with you, one step at a time:** your guide helps you find your steps, name your method and pick your comment word, shows you the whole plan before it designs anything in your Canva, and checks the order before you post.
+
 ## 0.2.7
 
 - **Keywords and hashtags, every time:** every caption your guide writes now comes complete, with your keywords in the sentences and your hashtags written out at the end, ready to copy.
